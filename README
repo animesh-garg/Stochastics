@@ -1,0 +1,8 @@
+This is a personal repo containing code for basic simulations:
+
+MHS.m Metropolis Hastings
+Gibb.m Gibbs Sampling
+Closed_JN.m Closed Jackson Networks
+invgamrnd.m Generate inverse gamma random variable
+bayes_imference.m simple bayes inference
+
